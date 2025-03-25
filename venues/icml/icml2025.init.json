@@ -24,7 +24,7 @@
         "overall_recommendation_avg": 2.8
     },
     {
-        "id": "GF_01abfc750a0c942167651c40d088531d",
+        "id": "GF_6bb61e3b7bce0931da574d19d1d82c88",
         "title": "",
         "track": "main",
         "status": "Unknown",
@@ -34,5 +34,125 @@
         "author": "",
         "overall_recommendation": "2.0;4.0;2.0;4.0",
         "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_986648642d1a68a3178f6869689cc260",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0",
+        "overall_recommendation_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_abbde2260a9975d933edba299da55fbc",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "1.0;2.0;2.0;2.0",
+        "overall_recommendation_avg": 1.75
+    },
+    {
+        "id": "GF_2a0fc17decd6d3a9bc8ab83cc32d2ad5",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Optimization (convex and non-convex optimization, matrix/tensor methods, stochastic, online, non-smooth, composite, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;1.0;2.0;2.0",
+        "overall_recommendation_avg": 2.25
+    },
+    {
+        "id": "GF_c0d36fcc6cd2b51fd016a48769f1ea2c",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;2.0",
+        "overall_recommendation_avg": 2.6666666666666665
+    },
+    {
+        "id": "GF_1fffeb2192215ea34ce0aab63650534a",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;3.0;3.0",
+        "overall_recommendation_avg": 2.5
+    },
+    {
+        "id": "GF_e6ff107459d435e38b54ad4c06202c33",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "General Machine Learning (active learning, clustering, online learning, ranking, supervised, semi- and self-supervised learning, time series analysis, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;2.0;2.0",
+        "overall_recommendation_avg": 2.5
+    },
+    {
+        "id": "GF_6ed675a8c34fbd1a8803d77612b83387",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Trustworthy Machine Learning (causality, fairness, interpretability, privacy, robustness, safety, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;3.0;3.0",
+        "overall_recommendation_avg": 2.5
+    },
+    {
+        "id": "GF_452bf208bf901322968557227b8f6efe",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Evaluation (methodology, meta studies, replicability and validity, human-in-the-loop, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "1.0;2.0;2.0",
+        "overall_recommendation_avg": 1.6666666666666667
+    },
+    {
+        "id": "GF_8d1e797a0097f885ec49cf47b8422766",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Trustworthy Machine Learning (causality, fairness, interpretability, privacy, robustness, safety, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;2.0;4.0",
+        "overall_recommendation_avg": 2.75
+    },
+    {
+        "id": "GF_30f8035daec8d427493ee44ed9d15d13",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "General Machine Learning (active learning, clustering, online learning, ranking, supervised, semi- and self-supervised learning, time series analysis, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;1.0;2.0;3.0;1.0",
+        "overall_recommendation_avg": 2.0
     }
 ]

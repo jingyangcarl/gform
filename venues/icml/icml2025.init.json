@@ -154,5 +154,77 @@
         "author": "",
         "overall_recommendation": "3.0;1.0;2.0;3.0;1.0",
         "overall_recommendation_avg": 2.0
+    },
+    {
+        "id": "GF_13b84e27ae884ad0a24d817d23b75be0",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Trustworthy Machine Learning (causality, fairness, interpretability, privacy, robustness, safety, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;3.0;3.0",
+        "overall_recommendation_avg": 2.75
+    },
+    {
+        "id": "GF_01846ae470651e97d2f73fce979406a9",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;4.0;4.0;4.0",
+        "overall_recommendation_avg": 3.75
+    },
+    {
+        "id": "GF_33853141e0873909be88f5c3e6144cc6",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Probabilistic Methods (Bayesian methods, graphical models, Monte Carlo methods, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;3.0;4.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_e3639fec7c486b141c2efeabb6a4981e",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;3.0;4.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_d68a18275455ae3eaa2c291eebb46e6d",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Trustworthy Machine Learning (causality, fairness, interpretability, privacy, robustness, safety, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.75",
+        "overall_recommendation_avg": 2.75
+    },
+    {
+        "id": "GF_e82c4b19b8151ddc25d4d93baf7b908f",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;2.0;2.0",
+        "overall_recommendation_avg": 2.0
     }
 ]

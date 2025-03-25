@@ -1,0 +1,38 @@
+[
+    {
+        "id": "GF_8fdd149fcaa7058caccc9c4ad5b0d89a",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;3.0",
+        "overall_recommendation_avg": 2.3333333333333335
+    },
+    {
+        "id": "GF_f0bda020d2470f2e74990a07a607ebd9",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;3.0;3.0;4.0",
+        "overall_recommendation_avg": 2.8
+    },
+    {
+        "id": "GF_01abfc750a0c942167651c40d088531d",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "General Machine Learning (active learning, clustering, online learning, ranking, supervised, semi- and self-supervised learning, time series analysis, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;4.0;2.0;4.0",
+        "overall_recommendation_avg": 3.0
+    }
+]

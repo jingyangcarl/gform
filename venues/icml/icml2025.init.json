@@ -3648,6 +3648,66 @@
         "overall_recommendation_avg": 3.0
     },
     {
+        "id": "GF_2cc51c3ea088939d879bae1092a7ed0b",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Optimization (convex and non-convex optimization, matrix/tensor methods, stochastic, online, non-smooth, composite, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0;2.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_d072677d210ac4c03ba046120f0802ec",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;1.0;4.0;3.0;3.0",
+        "overall_recommendation_avg": 2.8
+    },
+    {
+        "id": "GF_44ac09ac6a149136a4102ee4b4103ae6",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;2.0",
+        "overall_recommendation_avg": 2.6666666666666665
+    },
+    {
+        "id": "GF_9b972ab65a176d0a3aabf71ea0c01ffc",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;2.0;2.0;3.0",
+        "overall_recommendation_avg": 2.2
+    },
+    {
+        "id": "GF_8c2922cc69859d70da84997679f63e2b",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0;2.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
         "id": "GF_07aeb18febbdbf77511a10fd4aa49942",
         "title": "",
         "track": "Position",

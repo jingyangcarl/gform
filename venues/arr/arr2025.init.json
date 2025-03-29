@@ -698,5 +698,25 @@
         "soundness_avg": 3.0,
         "excitement_avg": 3.1666666666666665,
         "reproducibility_avg": 4.0
+    },
+    {
+        "id": "GF_6ea9ab1baa0efb9e19094440c317e21b",
+        "title": "",
+        "track": "February",
+        "status": "Long",
+        "primary_area": "",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_assessment": "2.0;2.5;3.5",
+        "confidence": "4.0;4.0;5.0",
+        "soundness": "",
+        "excitement": "",
+        "reproducibility": "",
+        "overall_assessment_avg": 2.6666666666666665,
+        "confidence_avg": 4.333333333333333,
+        "soundness_avg": 0,
+        "excitement_avg": 0,
+        "reproducibility_avg": 0
     }
 ]

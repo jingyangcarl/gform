@@ -2098,5 +2098,25 @@
         "soundness_avg": 2.8333333333333335,
         "excitement_avg": 3.1666666666666665,
         "reproducibility_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_2a8a8bde56a1a353f4e5fdd641f0b199",
+        "title": "",
+        "track": "main",
+        "status": "Long",
+        "primary_area": "Interpretability and Analysis of Models for NLP",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_assessment": "3.0;4.0;3.0",
+        "confidence": "3.0;4.0;3.0",
+        "soundness": "2.0;3.0;4.0",
+        "excitement": "3.0;4.0;3.0",
+        "reproducibility": "1.0;4.0;4.0",
+        "overall_assessment_avg": 3.3333333333333335,
+        "confidence_avg": 3.3333333333333335,
+        "soundness_avg": 3.0,
+        "excitement_avg": 3.3333333333333335,
+        "reproducibility_avg": 3.0
     }
 ]

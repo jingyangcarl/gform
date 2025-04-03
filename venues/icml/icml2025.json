@@ -8,8 +8,8 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "overall_recommendation": "4.0;3.0;3.0;3.0",
-        "overall_recommendation_avg": 3.25
+        "overall_recommendation": "4.0;4.0;3.0;3.0",
+        "overall_recommendation_avg": 3.5
     },
     {
         "id": "GF_185e48a43c7f63acf74b1bd58827b510",
@@ -34,5 +34,125 @@
         "author": "",
         "overall_recommendation": "2.0;4.0;4.0",
         "overall_recommendation_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_084a8a9aa8cced9175bd07bc44998e75",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Optimization (convex and non-convex optimization, matrix/tensor methods, stochastic, online, non-smooth, composite, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;4.0;3.0;3.0",
+        "overall_recommendation_avg": 3.5
+    },
+    {
+        "id": "GF_428e50ed045e210605d430ab5139bca6",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "5.0;3.0;3.0;2.0;2.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_60bb9e403abf6b0ccd8e64b03efe819f",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Reinforcement Learning (decision and control, planning, hierarchical RL, robotics, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "1.0;2.0;4.0;4.0",
+        "overall_recommendation_avg": 2.75
+    },
+    {
+        "id": "GF_aa988447067c0355df0223065af9d055",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "General Machine Learning (active learning, clustering, online learning, ranking, supervised, semi- and self-supervised learning, time series analysis, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;4.0;4.0",
+        "overall_recommendation_avg": 4.0
+    },
+    {
+        "id": "GF_042886829869470b75f63dddfd7e9d9d",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Trustworthy Machine Learning (causality, fairness, interpretability, privacy, robustness, safety, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0;3.0",
+        "overall_recommendation_avg": 3.25
+    },
+    {
+        "id": "GF_4cd59e4e9f2229730bf2babe4862c80d",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;2.0;4.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_aa108f56a10e75c1f20f27723ecac85f",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;4.0;4.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_a35f4223bb8f6c8638dc91d94e9b16f5",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Reinforcement Learning (decision and control, planning, hierarchical RL, robotics, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;4.0;3.0",
+        "overall_recommendation_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_91a448039265fc4a83f545a4945e37a3",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Probabilistic Methods (Bayesian methods, graphical models, Monte Carlo methods, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;4.0;4.0",
+        "overall_recommendation_avg": 3.5
+    },
+    {
+        "id": "GF_1230a1696bd04bc4a1c1e70bce477b46",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Probabilistic Methods (Bayesian methods, graphical models, Monte Carlo methods, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;3.0;3.0",
+        "overall_recommendation_avg": 2.5
     }
 ]

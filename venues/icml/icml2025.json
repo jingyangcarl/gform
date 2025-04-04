@@ -154,5 +154,101 @@
         "author": "",
         "overall_recommendation": "2.0;2.0;3.0;3.0",
         "overall_recommendation_avg": 2.5
+    },
+    {
+        "id": "GF_5d35a2cb4f619e684a2ffbf4f6a2ee7f",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Theory of Machine Learning (statistical learning theory, bandits, game theory, decision theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0;3.0",
+        "overall_recommendation_avg": 3.25
+    },
+    {
+        "id": "GF_7250eb93b3c18cc9daa29cf58af7a004",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;4.0;4.0;2.0",
+        "overall_recommendation_avg": 3.5
+    },
+    {
+        "id": "GF_db2d3cd34ecc2701c2d41de4f604b66f",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Trustworthy Machine Learning (causality, fairness, interpretability, privacy, robustness, safety, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;3.0;2.0",
+        "overall_recommendation_avg": 2.75
+    },
+    {
+        "id": "GF_ca07544bf48826672810e8afd6575408",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;3.0;4.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_cc58f7abf0b0cf2d5ac95ab60e4f14e9",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Optimization (convex and non-convex optimization, matrix/tensor methods, stochastic, online, non-smooth, composite, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;3.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_e1e4e65fddf79af60aab04457a6565a6",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Probabilistic Methods (Bayesian methods, graphical models, Monte Carlo methods, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;3.0;3.0",
+        "overall_recommendation_avg": 3.0
+    },
+    {
+        "id": "GF_320755112b6d9e248ce1c26e1fcf534b",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Reinforcement Learning (decision and control, planning, hierarchical RL, robotics, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;3.0;4.0",
+        "overall_recommendation_avg": 3.25
+    },
+    {
+        "id": "GF_bc71c19c1efc677e464f5943d67632bd",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0;2.0",
+        "overall_recommendation_avg": 3.0
     }
 ]

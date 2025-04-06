@@ -2504,5 +2504,47 @@
         "confidence": "4.0;4.0;4.0",
         "overall_recommendation_avg": 3.3333333333333335,
         "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_eb52a589679db417ba8380a42cf8be22",
+        "title": "",
+        "track": "main",
+        "status": "Reject",
+        "primary_area": "Multimodal learning",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;3.0;3.0",
+        "confidence": "3.0;4.0;4.0",
+        "overall_recommendation_avg": 3.0,
+        "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_16e17041d04f2535e07f580427afb549",
+        "title": "",
+        "track": "main",
+        "status": "Poster",
+        "primary_area": "Autonomous driving",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;4.0;5.0",
+        "confidence": "3.0;4.0;3.0",
+        "overall_recommendation_avg": 4.0,
+        "confidence_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_d36ee1845490ae5d13b68110fc399aa8",
+        "title": "",
+        "track": "main",
+        "status": "Poster",
+        "primary_area": "Humans: Face, body, pose, gesture, movement",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;4.0;3.0;4.0",
+        "confidence": "5.0;4.0;4.0;3.0",
+        "overall_recommendation_avg": 3.5,
+        "confidence_avg": 4.0
     }
 ]

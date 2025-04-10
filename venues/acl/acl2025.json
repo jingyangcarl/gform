@@ -318,5 +318,25 @@
         "soundness_avg": 0,
         "excitement_avg": 0,
         "reproducibility_avg": 0
+    },
+    {
+        "id": "GF_921d4b73a8f6ab68e20b8b7d3a9feb79",
+        "title": "",
+        "track": "main",
+        "status": "Long",
+        "primary_area": "Computational Social Science and Cultural Analytics",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_assessment": "2.0;2.0;2.0",
+        "confidence": "2.0;2.0;2.0",
+        "soundness": "2.0;2.0;2.0",
+        "excitement": "2.0;2.0;2.0",
+        "reproducibility": "2.0;2.0;2.0",
+        "overall_assessment_avg": 2.0,
+        "confidence_avg": 2.0,
+        "soundness_avg": 2.0,
+        "excitement_avg": 2.0,
+        "reproducibility_avg": 2.0
     }
 ]

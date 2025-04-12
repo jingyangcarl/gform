@@ -1018,5 +1018,53 @@
         "author": "",
         "overall_recommendation": "3.0;3.0;4.0;3.0",
         "overall_recommendation_avg": 3.25
+    },
+    {
+        "id": "GF_a6f941ddbae10417a553e00318696e30",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Theory of Machine Learning (statistical learning theory, bandits, game theory, decision theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;4.0;3.0;2.0",
+        "overall_recommendation_avg": 2.75
+    },
+    {
+        "id": "GF_c1e9dfc7cbcfe21d2eaf274c40788cdd",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Theory of Machine Learning (statistical learning theory, bandits, game theory, decision theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "3.0;4.0;4.0;4.0",
+        "overall_recommendation_avg": 3.75
+    },
+    {
+        "id": "GF_1f50d0737a738a9ba3206543d1102cbc",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep Learning (architectures, generative models, theory, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;4.0;4.0",
+        "overall_recommendation_avg": 3.25
+    },
+    {
+        "id": "GF_1114e7553c3ed0ef3ef0babbcff027f2",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Application-Driven Machine Learning (innovative techniques, problems, and datasets that are of interest to the machine learning community and driven by the needs of end-users in applications such as healthcare, physical sciences, biosciences, social sciences, sustainability and climate, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;3.0;3.0;2.0",
+        "overall_recommendation_avg": 3.0
     }
 ]

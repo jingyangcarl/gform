@@ -292,5 +292,33 @@
         "confidence": "5.0;4.0;4.0;3.0",
         "overall_recommendation_avg": 4.0,
         "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_89b03cd8ab39bc2aed6df4169fa2072b",
+        "title": "",
+        "track": "main",
+        "status": "Poster",
+        "primary_area": "Autonomous driving",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "4.0;4.0;4.0",
+        "confidence": "3.0;3.0;4.0",
+        "overall_recommendation_avg": 4.0,
+        "confidence_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_13fbe66c4c51b5105b28e59790cba2b9",
+        "title": "",
+        "track": "main",
+        "status": "Poster",
+        "primary_area": "Representation learning",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;3.0;4.0",
+        "confidence": "5.0;2.0;4.0",
+        "overall_recommendation_avg": 3.0,
+        "confidence_avg": 3.6666666666666665
     }
 ]

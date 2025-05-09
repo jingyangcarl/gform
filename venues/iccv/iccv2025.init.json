@@ -1,0 +1,44 @@
+[
+    {
+        "id": "GF_162c9557a309ce6841dd9a5035da2def",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Transfer/ low-shot/ continual/ long-tail learning",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;3.0;4.0;4.0",
+        "confidence": "5.0;4.0;4.0;4.0",
+        "recommendation_avg": 3.75,
+        "confidence_avg": 4.25
+    },
+    {
+        "id": "GF_adf2b757db1d9400fd77655e32637169",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Event-based cameras",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "3.0;4.0;3.0",
+        "confidence": "4.0;2.0;2.0",
+        "recommendation_avg": 3.3333333333333335,
+        "confidence_avg": 2.6666666666666665
+    },
+    {
+        "id": "GF_401704ef750f5f2e9fc84ed2c5db8292",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Computer vision theory",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "2.0;3.0;4.0",
+        "confidence": "3.0;3.0;3.0",
+        "recommendation_avg": 3.0,
+        "confidence_avg": 3.0
+    }
+]

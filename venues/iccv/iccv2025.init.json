@@ -40,5 +40,47 @@
         "confidence": "3.0;3.0;3.0",
         "recommendation_avg": 3.0,
         "confidence_avg": 3.0
+    },
+    {
+        "id": "GF_9507e5a1ad9730d244d3cefbfc6b7c56",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Medical and biological vision, cell microscopy",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "3.0;4.0;6.0",
+        "confidence": "5.0;3.0;3.0",
+        "recommendation_avg": 4.333333333333333,
+        "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_62c0870e486e84169c9b01de2f2799dd",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Efficient and scalable vision",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;2.0;2.0",
+        "confidence": "2.0;4.0;3.0",
+        "recommendation_avg": 2.6666666666666665,
+        "confidence_avg": 3.0
+    },
+    {
+        "id": "GF_c28043daa47570eda5963dc44dd05606",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Recognition: Categorization, detection, retrieval",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "2.0;3.0;3.0",
+        "confidence": "4.0;4.0;3.0",
+        "recommendation_avg": 2.6666666666666665,
+        "confidence_avg": 3.6666666666666665
     }
 ]

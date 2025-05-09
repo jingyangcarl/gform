@@ -82,5 +82,33 @@
         "confidence": "4.0;4.0;3.0",
         "recommendation_avg": 2.6666666666666665,
         "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_326fb04c3abf030fe3f4e341f39b573f",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep learning architectures and techniques",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;3.0;3.0",
+        "confidence": "4.0;4.0;4.0",
+        "recommendation_avg": 3.3333333333333335,
+        "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_d9636b3388bd7b68bc02dc92c68ea328",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Medical and biological vision, cell microscopy",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;3.0;3.0",
+        "confidence": "2.0;4.0;3.0",
+        "recommendation_avg": 3.3333333333333335,
+        "confidence_avg": 3.0
     }
 ]

@@ -2818,5 +2818,25 @@
         "soundness_avg": 0,
         "excitement_avg": 0,
         "reproducibility_avg": 0
+    },
+    {
+        "id": "GF_e702e51da2c0f5be4dd354bb3e295d37",
+        "title": "",
+        "track": "main",
+        "status": "Long",
+        "primary_area": "Efficient/Low-Resource Methods for NLP",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_assessment": "3.5;2.5;2.5;1.5",
+        "confidence": "4.0;3.0;3.0;3.0",
+        "soundness": "",
+        "excitement": "",
+        "reproducibility": "",
+        "overall_assessment_avg": 2.5,
+        "confidence_avg": 3.25,
+        "soundness_avg": 0,
+        "excitement_avg": 0,
+        "reproducibility_avg": 0
     }
 ]

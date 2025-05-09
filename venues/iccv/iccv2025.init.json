@@ -98,7 +98,7 @@
         "confidence_avg": 4.0
     },
     {
-        "id": "GF_d9636b3388bd7b68bc02dc92c68ea328",
+        "id": "GF_6bb61e3b7bce0931da574d19d1d82c88",
         "title": "",
         "track": "main",
         "status": "Unknown",
@@ -110,5 +110,61 @@
         "confidence": "2.0;4.0;3.0",
         "recommendation_avg": 3.3333333333333335,
         "confidence_avg": 3.0
+    },
+    {
+        "id": "GF_f05bc2b0a6bfd0017eb112c0f8ef5228",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Datasets and evaluation",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;4.0;3.0",
+        "confidence": "3.0;4.0;4.0",
+        "recommendation_avg": 3.6666666666666665,
+        "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_8685549650016d9e1d14bf972262450b",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "3D from multi-view and sensors",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "5.0;4.0;3.0",
+        "confidence": "4.0;4.0;3.0",
+        "recommendation_avg": 4.0,
+        "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_0765933456f074d2c75bbbad63af95e6",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Vision applications and systems",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "3.0;4.0;5.0",
+        "confidence": "2.0;2.0;3.0",
+        "recommendation_avg": 4.0,
+        "confidence_avg": 2.3333333333333335
+    },
+    {
+        "id": "GF_c09f9caf5e08836d4673ccdd69bb041e",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Recognition: Categorization, detection, retrieval",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "5.0;4.0;4.0",
+        "confidence": "3.0;3.0;4.0",
+        "recommendation_avg": 4.333333333333333,
+        "confidence_avg": 3.3333333333333335
     }
 ]

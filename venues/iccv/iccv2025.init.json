@@ -476,7 +476,7 @@
         "confidence_avg": 3.6666666666666665
     },
     {
-        "id": "GF_4a7d1ed414474e4033ac29ccb8653d9b",
+        "id": "GF_74687a12d3915d3c4d83f1af7b3683d5",
         "title": "",
         "track": "main",
         "status": "Unknown",
@@ -728,7 +728,7 @@
         "confidence_avg": 4.333333333333333
     },
     {
-        "id": "GF_fa246d0262c3925617b0c72bb20eeb1d",
+        "id": "GF_a8d2ec85eaf98407310b72eb73dda247",
         "title": "",
         "track": "main",
         "status": "Poster",
@@ -826,7 +826,7 @@
         "confidence_avg": 3.3333333333333335
     },
     {
-        "id": "GF_15de21c670ae7c3f6f3f1f37029303c9",
+        "id": "GF_252e691406782824eec43d7eadc3d256",
         "title": "",
         "track": "main",
         "status": "Unknown",
@@ -896,7 +896,7 @@
         "confidence_avg": 4.666666666666667
     },
     {
-        "id": "GF_01abfc750a0c942167651c40d088531d",
+        "id": "GF_1b0fd9efa5279c4203b7c70233f86dbf",
         "title": "",
         "track": "main",
         "status": "Unknown",
@@ -904,10 +904,10 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "recommendation": "5.0;5.0;4.0",
-        "confidence": "4.0;4.0;4.0",
-        "recommendation_avg": 4.666666666666667,
-        "confidence_avg": 4.0
+        "recommendation": "3.0;3.0;3.0",
+        "confidence": "3.0;3.0;3.0",
+        "recommendation_avg": 3.0,
+        "confidence_avg": 3.0
     },
     {
         "id": "GF_eb6dc8aba23375061b6f07b137617096",
@@ -936,6 +936,20 @@
         "confidence": "5.0;4.0;4.0",
         "recommendation_avg": 3.6666666666666665,
         "confidence_avg": 4.333333333333333
+    },
+    {
+        "id": "GF_fe9bea92980bb30c7fb9cc3c33c99204",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Autonomous driving",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "5.0;5.0;4.0",
+        "confidence": "4.0;4.0;4.0",
+        "recommendation_avg": 4.666666666666667,
+        "confidence_avg": 4.0
     },
     {
         "id": "GF_f6f154417c4665861583f9b9c4afafa2",

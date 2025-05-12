@@ -2560,5 +2560,19 @@
         "confidence": "3.0;3.0;4.0",
         "overall_recommendation_avg": 3.3333333333333335,
         "confidence_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_a73d18446f20a30be28c26ab513da8d8",
+        "title": "",
+        "track": "main",
+        "status": "Reject",
+        "primary_area": "3D from multi-view and sensors",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "overall_recommendation": "2.0;2.0;3.0",
+        "confidence": "4.0;4.0;3.0",
+        "overall_recommendation_avg": 2.3333333333333335,
+        "confidence_avg": 3.6666666666666665
     }
 ]

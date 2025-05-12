@@ -2042,5 +2042,61 @@
         "confidence": "4.0;5.0;4.0",
         "recommendation_avg": 4.333333333333333,
         "confidence_avg": 4.333333333333333
+    },
+    {
+        "id": "GF_556950cd2810a798637000e9e438aac5",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep learning architectures and techniques",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;3.0;2.0",
+        "confidence": "4.0;3.0;4.0",
+        "recommendation_avg": 3.0,
+        "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_01abfc750a0c942167651c40d088531d",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Deep learning architectures and techniques",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;2.0;2.0",
+        "confidence": "2.0;4.0;4.0",
+        "recommendation_avg": 2.6666666666666665,
+        "confidence_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_aa49af1072b367b0a3342314401297a9",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Embodied vision: Active agents, simulation",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "3.0;3.0;3.0",
+        "confidence": "4.0;4.0;4.0",
+        "recommendation_avg": 3.0,
+        "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_56786bbe51b83ae53c89e68efb23425a",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Explainable computer vision",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;4.0;2.0",
+        "confidence": "2.0;4.0;3.0",
+        "recommendation_avg": 3.3333333333333335,
+        "confidence_avg": 3.0
     }
 ]

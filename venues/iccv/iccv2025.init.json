@@ -2336,5 +2336,47 @@
         "confidence": "4.0;4.0;5.0",
         "recommendation_avg": 2.0,
         "confidence_avg": 4.333333333333333
+    },
+    {
+        "id": "GF_e7fc7b2f00b839322ed94b1a0cbb8c7e",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Transfer/ low-shot/ continual/ long-tail learning",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "2.0;5.0;5.0",
+        "confidence": "4.0;4.0;4.0",
+        "recommendation_avg": 4.0,
+        "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_a74d1ff33e951286f8b41bd995f0c5e0",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "3D from single images",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "2.0;2.0;3.0",
+        "confidence": "4.0;4.0;5.0",
+        "recommendation_avg": 2.3333333333333335,
+        "confidence_avg": 4.333333333333333
+    },
+    {
+        "id": "GF_c5b270a763686e776039618cc709f3a6",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Datasets and evaluation",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;4.0;4.0",
+        "confidence": "4.0;4.0;3.0",
+        "recommendation_avg": 4.0,
+        "confidence_avg": 3.6666666666666665
     }
 ]

@@ -2378,5 +2378,19 @@
         "confidence": "4.0;4.0;3.0",
         "recommendation_avg": 4.0,
         "confidence_avg": 3.6666666666666665
+    },
+    {
+        "id": "GF_7ab4babdd6b87640e9ccccf7055324cb",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Low-level vision",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;5.0;6.0",
+        "confidence": "5.0;4.0;4.0",
+        "recommendation_avg": 5.0,
+        "confidence_avg": 4.333333333333333
     }
 ]

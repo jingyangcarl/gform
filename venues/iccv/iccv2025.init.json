@@ -2546,5 +2546,47 @@
         "confidence": "4.0;4.0;4.0;4.0;4.0",
         "recommendation_avg": 3.0,
         "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_db89ebf97441b8818d2e2a8630c807bf",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Multimodal learning",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;4.0;3.0",
+        "confidence": "3.0;2.0;3.0",
+        "recommendation_avg": 3.6666666666666665,
+        "confidence_avg": 2.6666666666666665
+    },
+    {
+        "id": "GF_c48eb27d5b0a288f5bbf1545c218e001",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "3D from multi-view and sensors",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "5.0;4.0;4.0",
+        "confidence": "4.0;5.0;5.0",
+        "recommendation_avg": 4.333333333333333,
+        "confidence_avg": 4.666666666666667
+    },
+    {
+        "id": "GF_bf7d325d23e3537b4332865c653e94d4",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Autonomous driving",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "3.0;4.0;3.0",
+        "confidence": "4.0;4.0;5.0",
+        "recommendation_avg": 3.3333333333333335,
+        "confidence_avg": 4.333333333333333
     }
 ]

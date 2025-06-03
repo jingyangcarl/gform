@@ -2588,5 +2588,33 @@
         "confidence": "4.0;4.0;5.0",
         "recommendation_avg": 3.3333333333333335,
         "confidence_avg": 4.333333333333333
+    },
+    {
+        "id": "GF_fbd8b1c6d475fdaa6a1bba8859e84c58",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "Machine learning (other than deep learning)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "5.0;3.0;2.0",
+        "confidence": "4.0;4.0;4.0",
+        "recommendation_avg": 3.3333333333333335,
+        "confidence_avg": 4.0
+    },
+    {
+        "id": "GF_6ecbdd6ec859d284dc13885a37ce8d81",
+        "title": "",
+        "track": "main",
+        "status": "Unknown",
+        "primary_area": "3D from multi-view and sensors",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "recommendation": "4.0;4.0;5.0",
+        "confidence": "4.0;4.0;4.0",
+        "recommendation_avg": 4.333333333333333,
+        "confidence_avg": 4.0
     }
 ]

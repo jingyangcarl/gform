@@ -8,9 +8,9 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "overall_accessment": "2.5;3.0;3.5",
+        "rating": "2.5;3.0;3.5",
         "confidence": "5.0;4.0;4.0",
-        "overall_accessment_avg": 3.0,
+        "rating_avg": 3.0,
         "confidence_avg": 4.333333333333333
     },
     {
@@ -22,9 +22,9 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "overall_accessment": "2.0;2.5;4.0",
+        "rating": "2.0;2.5;4.0",
         "confidence": "5.0;4.0;4.0",
-        "overall_accessment_avg": 2.8333333333333335,
+        "rating_avg": 2.8333333333333335,
         "confidence_avg": 4.333333333333333
     },
     {
@@ -36,9 +36,9 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "overall_accessment": "3.5;3.0;3.5",
+        "rating": "3.5;3.0;3.5",
         "confidence": "4.0;4.0;5.0",
-        "overall_accessment_avg": 3.3333333333333335,
+        "rating_avg": 3.3333333333333335,
         "confidence_avg": 4.333333333333333
     },
     {
@@ -50,9 +50,9 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "overall_accessment": "3.5;2.5;2.0",
+        "rating": "3.5;2.5;2.0",
         "confidence": "3.0;3.0;5.0",
-        "overall_accessment_avg": 2.6666666666666665,
+        "rating_avg": 2.6666666666666665,
         "confidence_avg": 3.6666666666666665
     }
 ]

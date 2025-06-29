@@ -82,5 +82,19 @@
         "confidence": "",
         "rating_avg": 3.1666666666666665,
         "confidence_avg": 0
+    },
+    {
+        "id": "GF_03a7bc793a63c9b9046f5552964d13d8",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Information Extraction and Retrieval",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "1.5;2.0;2.5",
+        "confidence": "4.0;4.0;4.0",
+        "rating_avg": 2.0,
+        "confidence_avg": 4.0
     }
 ]

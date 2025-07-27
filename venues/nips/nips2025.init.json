@@ -78,9 +78,9 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "rating": "3.25",
-        "confidence": "4.0",
-        "rating_avg": 3.25,
+        "rating": "3.0;5.0;3.0;3.0",
+        "confidence": "5.0;4.0;4.0;3.0",
+        "rating_avg": 3.5,
         "confidence_avg": 4.0
     },
     {
@@ -3610,6 +3610,34 @@
         "confidence": "4.0;3.0;4.0;4.0",
         "rating_avg": 4.0,
         "confidence_avg": 3.75
+    },
+    {
+        "id": "GF_828885df579012e180b602879bd3c129",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "General machine learning (supervised, unsupervised, online, active, etc.)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "4.0;4.0;2.0",
+        "confidence": "3.0;3.0;4.0",
+        "rating_avg": 3.3333333333333335,
+        "confidence_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_261c369066740deaa9693387b5e701c5",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "5.0;4.0;4.0;3.0",
+        "confidence": "2.0;3.0;2.0;4.0",
+        "rating_avg": 4.0,
+        "confidence_avg": 2.75
     },
     {
         "id": "GF_076a0c97d09cf1a0ec3e19c7f2529f2b",

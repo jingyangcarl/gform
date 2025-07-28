@@ -78,9 +78,9 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "rating": "3.0;5.0;3.0;3.0",
-        "confidence": "5.0;4.0;4.0;3.0",
-        "rating_avg": 3.5,
+        "rating": "3.25",
+        "confidence": "4.0",
+        "rating_avg": 3.25,
         "confidence_avg": 4.0
     },
     {
@@ -3402,7 +3402,21 @@
         "confidence_avg": 4.0
     },
     {
-        "id": "GF_01abfc750a0c942167651c40d088531d",
+        "id": "GF_8c5ef576c66349bb871d35994ec50448",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "5.0;5.0;4.0;3.0",
+        "confidence": "5.0;4.0;4.0;4.0",
+        "rating_avg": 4.25,
+        "confidence_avg": 4.25
+    },
+    {
+        "id": "GF_8000d44d92b4ea5aba46b13bd938e0e4",
         "title": "",
         "track": "main",
         "status": "Active",
@@ -3624,6 +3638,20 @@
         "confidence": "3.0;3.0;4.0",
         "rating_avg": 3.3333333333333335,
         "confidence_avg": 3.3333333333333335
+    },
+    {
+        "id": "GF_8d2b9e08aff3573e99ce7966a0dd4628",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "3.0;5.0;3.0;3.0",
+        "confidence": "5.0;4.0;4.0;3.0",
+        "rating_avg": 3.5,
+        "confidence_avg": 4.0
     },
     {
         "id": "GF_261c369066740deaa9693387b5e701c5",

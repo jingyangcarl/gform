@@ -4746,6 +4746,34 @@
         "confidence_avg": 3.5
     },
     {
+        "id": "GF_0829da38b0b43a8cb034f0f8cbce906c",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "4.0",
+        "confidence": "3.25",
+        "rating_avg": 4.0,
+        "confidence_avg": 3.25
+    },
+    {
+        "id": "GF_3bb1945caea01fe4ffc02df763fc1c21",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Deep learning (e.g., architectures, generative models, optimization for deep networks, foundation models, LLMs)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "3.0",
+        "confidence": "3.6",
+        "rating_avg": 3.0,
+        "confidence_avg": 3.6
+    },
+    {
         "id": "GF_e3f13237b715269ec481842bfccbeebe",
         "title": "",
         "track": "main",
@@ -4982,6 +5010,20 @@
         "confidence": "4.0;2.0;4.0;4.0",
         "rating_avg": 4.25,
         "confidence_avg": 3.5
+    },
+    {
+        "id": "GF_0829da38b0b43a8cb034f0f8cbce906c",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "4.25",
+        "confidence": "3.25",
+        "rating_avg": 4.25,
+        "confidence_avg": 3.25
     },
     {
         "id": "GF_076a0c97d09cf1a0ec3e19c7f2529f2b",

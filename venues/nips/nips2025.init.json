@@ -4872,6 +4872,34 @@
         "confidence_avg": 3.5
     },
     {
+        "id": "GF_4b86521fb429633d44697456d41ac4e5",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Neuroscience and cognitive science (e.g., neural coding, brain-computer interfaces)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "2.0;3.0;4.0;5.0",
+        "confidence": "3.0;3.0;4.0;4.0",
+        "rating_avg": 3.5,
+        "confidence_avg": 3.5
+    },
+    {
+        "id": "GF_f8c0e172cbf7b81bb804df0092b53ae9",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Social and economic aspects of machine learning (e.g., fairness, interpretability, human-AI interaction, privacy, safety, strategic behavior)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "4.0;4.0;3.0;2.0",
+        "confidence": "4.0;3.0;5.0;3.0",
+        "rating_avg": 3.25,
+        "confidence_avg": 3.75
+    },
+    {
         "id": "GF_e3f13237b715269ec481842bfccbeebe",
         "title": "",
         "track": "main",
@@ -5204,6 +5232,20 @@
         "author": "",
         "rating": "4.0;4.0;4.0;4.0",
         "confidence": "4.0;4.0;3.0;3.0",
+        "rating_avg": 4.0,
+        "confidence_avg": 3.5
+    },
+    {
+        "id": "GF_4b86521fb429633d44697456d41ac4e5",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Neuroscience and cognitive science (e.g., neural coding, brain-computer interfaces)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "3.0;3.0;5.0;5.0",
+        "confidence": "3.0;3.0;4.0;4.0",
         "rating_avg": 4.0,
         "confidence_avg": 3.5
     },

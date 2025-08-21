@@ -4900,6 +4900,20 @@
         "confidence_avg": 3.75
     },
     {
+        "id": "GF_6104888965f0dd0fbb344fb4f3bcb4d9",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "4.0;3.0;4.0;3.0",
+        "confidence": "4.0;4.0;3.0;3.0",
+        "rating_avg": 3.5,
+        "confidence_avg": 3.5
+    },
+    {
         "id": "GF_e3f13237b715269ec481842bfccbeebe",
         "title": "",
         "track": "main",
@@ -5246,6 +5260,20 @@
         "author": "",
         "rating": "3.0;3.0;5.0;5.0",
         "confidence": "3.0;3.0;4.0;4.0",
+        "rating_avg": 4.0,
+        "confidence_avg": 3.5
+    },
+    {
+        "id": "GF_6104888965f0dd0fbb344fb4f3bcb4d9",
+        "title": "",
+        "track": "main",
+        "status": "Active",
+        "primary_area": "Applications (e.g., vision, language, speech and audio, Creative AI)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "4.0;4.0;4.0;4.0",
+        "confidence": "4.0;4.0;3.0;3.0",
         "rating_avg": 4.0,
         "confidence_avg": 3.5
     },
@@ -5846,10 +5874,10 @@
         "open2public": "Yes",
         "keywords": "",
         "author": "",
-        "rating": "7.0;3.0",
-        "confidence": "3.0;3.0",
-        "rating_avg": 5.0,
-        "confidence_avg": 3.0
+        "rating": "7.0;3.0;4.0",
+        "confidence": "3.0;3.0;4.0",
+        "rating_avg": 4.666666666666667,
+        "confidence_avg": 3.3333333333333335
     },
     {
         "id": "GF_57232b2a76c3a65320009c9a0b7e327c",

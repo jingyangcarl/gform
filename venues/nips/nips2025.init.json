@@ -5124,6 +5124,20 @@
         "confidence_avg": 3.75
     },
     {
+        "id": "GF_ef41d488755367316f04fc0e0e9dc9fc",
+        "title": "",
+        "track": "main",
+        "status": "Poster",
+        "primary_area": "Theory (e.g., control theory, learning theory, algorithmic game theory)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "3.0;5.0;3.0;4.0",
+        "confidence": "3.0;4.0;3.0;4.0",
+        "rating_avg": 3.75,
+        "confidence_avg": 3.5
+    },
+    {
         "id": "GF_e3f13237b715269ec481842bfccbeebe",
         "title": "",
         "track": "main",
@@ -5752,6 +5766,20 @@
         "confidence": "3.75",
         "rating_avg": 4.0,
         "confidence_avg": 3.75
+    },
+    {
+        "id": "GF_ef41d488755367316f04fc0e0e9dc9fc",
+        "title": "",
+        "track": "main",
+        "status": "Poster",
+        "primary_area": "Theory (e.g., control theory, learning theory, algorithmic game theory)",
+        "open2public": "Yes",
+        "keywords": "",
+        "author": "",
+        "rating": "3.0;5.0;3.0;4.0",
+        "confidence": "3.0;4.0;3.0;4.0",
+        "rating_avg": 3.75,
+        "confidence_avg": 3.5
     },
     {
         "id": "GF_076a0c97d09cf1a0ec3e19c7f2529f2b",
